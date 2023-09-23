@@ -25,3 +25,4 @@ tf2onnx
 pycocotools
 onnx
 onnxruntime
+imgaug
